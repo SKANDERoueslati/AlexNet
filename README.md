@@ -1,5 +1,5 @@
 # AlexNet
-A ready to use module implemeting AlexNet CNN (TensorFlow implementation)
+**A ready to use module implemeting AlexNet CNN (TensorFlow implementation)**
 
 This project provides the AlexNet class that allows to directly integrate the AlexNet CNN by simplly instanciate the AlexNet class.
 
